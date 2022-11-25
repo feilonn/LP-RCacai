@@ -1,5 +1,8 @@
-# LP-RCaçaí
+# LP-RCaçaí => Versão 1.0
 Repositório destinado a códigos de criação de landing pages e web pages com o propósito de treinar estilização e criatividade.
+
+Online em:
+https://feilonn.github.io/LP-RCacai/
 
 # Landing Page Responsivida para venda de Açaí!
 
